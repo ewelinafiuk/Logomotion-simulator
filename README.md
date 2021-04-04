@@ -4,7 +4,7 @@ Logomotion simulator project for University
 Logomotion simulator it's an easy programm working in three 
 Logomotion simulator it is the program using to draw simple pictures with the help of a turtle moving around the screen.
 
-the program works in two modes: batch and interactive
+1. the program works in two modes: batch and interactive
 2. In batch mode, the program reads the command list from a text file.
 3. In interactive mode, the user enters a command and the turtle draws it on the screen.
 4. The supported commands are limited to: "podnies", "opusc", "obrot", "naprzod".
