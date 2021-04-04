@@ -1,0 +1,10 @@
+opusc
+naprzod 50
+obrot 90
+naprzod 50
+obrot 90
+naprzod 50
+obrot 90
+naprzod 50
+obrot 90
+podnies

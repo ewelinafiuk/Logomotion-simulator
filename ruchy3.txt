@@ -1,0 +1,14 @@
+opusc  
+obrot 90
+naprzod 200
+obrot 90
+naprzod 300
+obrot 90
+naprzod 200
+obrot 90
+naprzod 300
+obrot 225
+naprzod 200
+obrot 270
+naprzod 210
+podnies  
